@@ -1,3 +1,10 @@
+# Personal Stuff
+data/
+
+
+
+# Everything below this line was auto-generated from "Python" gitignore template in github
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

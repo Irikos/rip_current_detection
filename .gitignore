@@ -1,5 +1,6 @@
 # Personal Stuff
 data/
+yolov5/
 *.png
 *.jpg
 *.zip

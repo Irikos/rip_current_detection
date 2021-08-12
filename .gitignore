@@ -1,6 +1,8 @@
 # Personal Stuff
 data/
 yolov5/
+wandb/
+runs/
 *.png
 *.jpg
 *.zip

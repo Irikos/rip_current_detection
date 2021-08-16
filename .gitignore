@@ -1,5 +1,6 @@
 # Personal Stuff
 data/
+datasets/
 yolov5/
 wandb/
 runs/

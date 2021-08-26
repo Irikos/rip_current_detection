@@ -4,6 +4,7 @@ datasets/
 yolov5/
 wandb/
 runs/
+saved_models_local/
 *.png
 *.jpg
 *.zip

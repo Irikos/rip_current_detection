@@ -1,2 +1,2 @@
-# RIPCurrentDetection
-Detecting RIP Currents using Computer Vision
+# Rip Current Detection
+Detecting rip Currents using Deep Computer Vision methods
